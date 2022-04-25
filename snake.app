@@ -1,1 +1,1 @@
-Snake|[1]|snake.icon.png|[1]|window.location.href='snake.htm';
+Snake|[1]|sys.snake.png|[1]|window.location.href='snake.htm';
