@@ -1,1 +1,1 @@
-Snake|[1]|sys.snake.png|[1]|window.location.href='snake.htm';
+title|[>]|Snake|[1]|favicon|[>]|sys.snake.png|[1]|run|[>]|window.location.href='snake.htm';
