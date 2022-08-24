@@ -1,2 +1,2 @@
-# Snake Web Game
+# Snake
 A simple Snake online game.
